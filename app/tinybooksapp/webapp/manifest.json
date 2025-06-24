@@ -24,6 +24,19 @@
           "odataVersion": "4.0"
         }
       }
+    },
+    "crossNavigation": {
+      "inbounds": {
+        "semanticobjecttinybooks-show": {
+          "semanticObject": "semanticobjecttinybooks",
+          "action": "show",
+          "title": "{{semanticobjecttinybooks-show.flpTitle}}",
+          "signature": {
+            "parameters": {},
+            "additionalParameters": "allowed"
+          }
+        }
+      }
     }
   },
   "sap.ui": {
